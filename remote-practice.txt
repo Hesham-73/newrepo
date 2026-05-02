@@ -1,0 +1,7 @@
+This file was created locally.
+
+Purpose:
+Practice Git local to remote workflow.
+
+Flow:
+local change -> commit -> push -> GitHub
